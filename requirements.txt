@@ -1,0 +1,13 @@
+# requirements.txt
+
+# The requests library is used for making HTTP requests within Python.
+# It is particularly useful for checking proxy and TOR connectivity.
+requests
+
+# colorama provides easy-to-use colored text for terminal outputs,
+# enhancing the user interface with colored messages.
+colorama
+
+# tqdm is used for creating progress bars in Python scripts,
+# providing visual feedback for long-running processes like tool checks.
+tqdm
